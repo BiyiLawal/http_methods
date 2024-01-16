@@ -1,1 +1,1 @@
-A nodejs localhost servernthat returns different responses depending on methods
+A nodejs localhost server that returns different responses depending on methods
